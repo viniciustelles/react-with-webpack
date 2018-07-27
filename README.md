@@ -1,2 +1,2 @@
 # react-with-webpack
-:tada: A simple boilerplate of react with webpack 4
+:tada: A sample react app with webpack 4 and react-hot-loader
